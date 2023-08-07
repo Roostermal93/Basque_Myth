@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 8,
     "next": null,
     "previous": null,
     "results": [
@@ -9,6 +9,13 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Basque/e3eedcfb-1c2c-44ba-bb80-19f402cbe8c8_eu_Female.mp4"
+        },
+        {
+            "id": "b31a3b07-6b14-4bea-818c-73d15a610c8d",
+            "collectionId": "Basque",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Basque/b31a3b07-6b14-4bea-818c-73d15a610c8d_eu_Female.mp4"
         },
         {
             "id": "f53168d2-0505-419a-b4b3-67a4ef922775",
@@ -25,11 +32,32 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Basque/dd5df397-1398-4a58-aee4-9d75fd3085c4_eu_Female.mp4"
         },
         {
+            "id": "8f0035a7-9d5a-4dbc-8f54-db55bb75523a",
+            "collectionId": "Basque",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Basque/8f0035a7-9d5a-4dbc-8f54-db55bb75523a_eu_Female.mp4"
+        },
+        {
+            "id": "a00bdfaf-762e-478f-bf7b-1ce06b4f4cf7",
+            "collectionId": "Basque",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Basque/a00bdfaf-762e-478f-bf7b-1ce06b4f4cf7_eu_Female.mp4"
+        },
+        {
             "id": "c5c96d3e-7358-48e2-a0a1-a9ebcbba05bd",
             "collectionId": "Basque",
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Basque/c5c96d3e-7358-48e2-a0a1-a9ebcbba05bd_eu_Female.mp4"
+        },
+        {
+            "id": "f96c9a2b-a722-4a26-b86c-353d8dba301c",
+            "collectionId": "Basque",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Basque/f96c9a2b-a722-4a26-b86c-353d8dba301c_eu_Female.mp4"
         }
     ]
 }
